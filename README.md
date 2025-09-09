@@ -148,7 +148,7 @@ opatch apply -silent /tmp/patch_dir
 Edit `$ORACLE_HOME/network/admin/listener.ora`:
 
 ```ini
-ELISTENER_PROD1 =
+LISTENER_PROD1 =
   (DESCRIPTION_LIST =
     (DESCRIPTION =
       (ADDRESS = (PROTOCOL = TCP)(HOST = dbhost1.example.com)(PORT = 1521))
