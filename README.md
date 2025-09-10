@@ -219,8 +219,8 @@ export ORACLE_SID=PROD1
 
 sqlplus / as sysdba <<'SQL'
 -- FRA and size
-ALTER SYSTEM SET db_recovery_file_dest='/u02/fra/PROD1' SCOPE=BOTH;
 ALTER SYSTEM SET db_recovery_file_dest_size=100G SCOPE=BOTH;
+ALTER SYSTEM SET db_recovery_file_dest='/u02/fra/PROD1' SCOPE=BOTH;
 
 -- ARCHIVELOG + FORCE LOGGING
 SHUTDOWN IMMEDIATE;
@@ -335,6 +335,8 @@ tnsping PROD2_LOCAL
 ```bash
 su - oracle
 
+export ORACLE_SID=PROD1
+
 rman target / <<EOF
 RUN {
   CONFIGURE CONTROLFILE AUTOBACKUP ON;
@@ -343,6 +345,8 @@ RUN {
 }
 EOF
 ```
+
+Repeat for PROD2.
 
 ---
 
