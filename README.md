@@ -359,6 +359,7 @@ EOF
 
 **Przemyslaw Pradela**  
 - 💼 GitHub: [@ppradela](https://github.com/ppradela)
-- ✉️ Email: [przemyslaw.pradela@gmail.com](mailto:przemyslaw.pradela@gmail.com?subject=Oracle%20Database%2019c%20Installation%20%26%20Configuration%20Guide)  
+- ✉️ Email: [przemyslaw.pradela@gmail.com](mailto:przemyslaw.pradela@gmail.com?subject=Oracle%20Database%2019c%20Installation%20%26%20Configuration%20Guide)
+- 🔗 LinkedIn: [Przemyslaw Pradela](https://www.linkedin.com/in/przemys%C5%82aw-pradela-644783383)
 
 ---
