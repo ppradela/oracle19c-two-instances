@@ -363,7 +363,7 @@ Repeat for PROD2.
 
 **Przemyslaw Pradela**  
 - 💼 GitHub: [@ppradela](https://github.com/ppradela)
-- ✉️ Email: [przemyslaw.pradela@gmail.com](mailto:przemyslaw.pradela@gmail.com?subject=Oracle%20Database%2019c%20Installation%20%26%20Configuration%20Guide)
+- ✉️ Email: [przemyslaw.pradela@pradela.ovh](mailto:przemyslaw.pradela@pradela.ovh?subject=Oracle%20Database%2019c%20Installation%20%26%20Configuration%20Guide)
 - 🔗 LinkedIn: [przemyslaw-pradela](https://www.linkedin.com/in/przemyslaw-pradela)
 
 ---
